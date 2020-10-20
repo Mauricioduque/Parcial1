@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.1, 2020-10-20T11:38:13. -->
+<!-- Written by QtCreator 4.13.1, 2020-10-20T12:01:23. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -325,8 +325,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/mauri/OneDrive/Escritorio/universidad mao/INFORMÁTICA 2/Parcial1_Mauricio_Duque/Parcial1_Mauricio_Duque.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/mauri/OneDrive/Escritorio/universidad mao/INFORMÁTICA 2/Parcial1_Mauricio_Duque/Parcial1_Mauricio_Duque.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Parcial1_Mauricio_Duque2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/mauri/OneDrive/Escritorio/universidad mao/INFORMÁTICA 2/Parcial1/Parcial1_Mauricio_Duque.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/mauri/OneDrive/Escritorio/universidad mao/INFORMÁTICA 2/Parcial1/Parcial1_Mauricio_Duque.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
